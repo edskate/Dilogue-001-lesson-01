@@ -1,2 +1,22 @@
-# Dilogue 001\lesson 01
- 
+# Dilogue 001\less
+
+## Dilogue 001
+- I am, I´m
+- Hi. I´m edy.😀
+- you are, you´re 
+- you´re jennifer, right?👩‍🦰👩
+- She is, she´s
+- How´s julia👨 - 👩She´s good!
+- he is,🧑 he´s🧑
+- He´s james👦->🕺
+- it is, it´s 👉🏻🕺👀🥱🥶😷 
+- It's a bee. 🐝
+- She 👩‍🦰
+- he 🧑
+- it 🚲🧯🦓🐔🐇🐬
+- I´m Ana👩‍🦰
+- he´James👨
+- It´s a Bee🐝
+- you´re Anna, right?👩
+- She´s 👧Alison and he´s 👦Adam
+- I´m Jane👩‍🦳,and hes 👱‍♂️john

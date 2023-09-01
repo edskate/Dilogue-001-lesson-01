@@ -26,5 +26,8 @@
 - a bit tired
 - just my teeth, bad
 - but i´m fine
-- and you?
-  
+- and you? 
+- you must always believe
+- that it´s easy 
+- Try to make a month
+- Be patient

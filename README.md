@@ -20,3 +20,11 @@
 - you´re Anna, right?👩
 - She´s 👧Alison and he´s 👦Adam
 - I´m Jane👩‍🦳,and hes 👱‍♂️john
+
+# Hello
+- how are you ?
+- a bit tired
+- just my teeth, bad
+- but i´m fine
+- and you?
+  

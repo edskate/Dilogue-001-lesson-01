@@ -1,0 +1,23 @@
+# Details
+
+Date : 2023-09-01 12:17:56
+
+Directory c:\\Users\\ED M J\\Documents\\Dilogue 001\\lesson 01\\Dilogue-001-lesson-01
+
+Total : 8 files,  260 codes, 0 comments, 4 blanks, all 264 lines
+
+[Summary](results.md) / Details / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Files
+| filename | language | code | comment | blank | total |
+| :--- | :--- | ---: | ---: | ---: | ---: |
+| [README.md](/README.md) | Markdown | 21 | 0 | 1 | 22 |
+| [index.html](/index.html) | HTML | 33 | 0 | 1 | 34 |
+| [index01.html](/index01.html) | HTML | 26 | 0 | 0 | 26 |
+| [index02.html](/index02.html) | HTML | 33 | 0 | 0 | 33 |
+| [index03.html](/index03.html) | HTML | 54 | 0 | 1 | 55 |
+| [index04.html](/index04.html) | HTML | 25 | 0 | 0 | 25 |
+| [index05.html](/index05.html) | HTML | 52 | 0 | 0 | 52 |
+| [style.css](/style.css) | CSS | 16 | 0 | 1 | 17 |
+
+[Summary](results.md) / Details / [Diff Summary](diff.md) / [Diff Details](diff-details.md)

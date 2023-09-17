@@ -31,3 +31,11 @@
 - that it´s easy 
 - Try to make a month
 - Be patient
+
+# Get up
+
+- Get up, it´s almost noon!
+  
+ {Levante-se, é quase  meio dia!☀}
+
+- Hey dude! What´s up? Long time no see!
